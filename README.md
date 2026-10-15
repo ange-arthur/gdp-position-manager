@@ -73,4 +73,4 @@ Version 1.00, ~3,400 lines, compiles with 0 errors / 0 warnings in the current M
 
 ## License
 
-MIT
+[PolyForm Noncommercial 1.0.0](LICENSE). Free to use, study and modify for personal and other non-commercial purposes. Commercial use, including resale or inclusion in a paid product, requires written permission from the author (adoua.arthur@gmail.com).

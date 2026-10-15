@@ -18,6 +18,9 @@
 //|    - aucune ouverture de position sans clic du trader             |
 //+------------------------------------------------------------------+
 #property copyright "Arthur Adoua"
+#property link      "https://github.com/ange-arthur/gdp-position-manager"
+// Licensed under the PolyForm Noncommercial License 1.0.0 (see LICENSE).
+// Required Notice: Copyright Ange Arthur Adoua (https://github.com/ange-arthur)
 #property version   "1.00"
 #property description "GDP - Gestionnaire De Positions : calcul du lot selon le risque, placement d'ordres et gestion des positions ouvertes. Aucun trading automatique."
 
